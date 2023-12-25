@@ -1,6 +1,8 @@
 -👋 Hello, fellow developers! I'm @Arjun-1337, and I'm passionate about exploring the realms of technology and creativity. Currently based in India, I'm on a journey of continuous learning and growth in the tech world.
 <BR>
+<BR>
 -🚀 Interests:
+<BR>
 <BR>
 -💹 Trading Algorithms: I'm fascinated by the world of financial markets and am actively exploring the development of trading algorithms to navigate the complexities of trading strategies.
 <BR>
@@ -11,6 +13,7 @@
 -🤖 AI Applications: Exploring the applications of Artificial Intelligence, I'm intrigued by the possibilities AI brings to various fields.
 
 📚 Current Focus:
+<BR>
 <BR>
 -🕹️ Game Development: Currently, I'm sharpening my skills in game development, experimenting with different frameworks, and turning ideas into interactive experiences.
 <BR>
