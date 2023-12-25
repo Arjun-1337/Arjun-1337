@@ -17,7 +17,9 @@
 <BR>
 -🕹️ Game Development: Currently, I'm sharpening my skills in game development, experimenting with different frameworks, and turning ideas into interactive experiences.
 <BR>
+<BR>
 -📬 Let's Connect:
+<BR>
 <BR>
 -👉 GitHub: You're already here! Explore my repositories and feel free to contribute or collaborate.
 <BR>
