@@ -23,7 +23,7 @@
 <BR>
 -👉 GitHub: You're already here! Explore my repositories and feel free to contribute or collaborate.
 <BR>
--📧 Email: Reach out to me at gashtankar@gmail.com for any discussions, collaborations, or just a friendly chat.
+-📧 Email: Reach out to me at gomed@arjun.media for any discussions, collaborations, or just a friendly chat.
 <BR>
 -🌐 Keep in touch, and let's build something awesome together!
 <BR>
