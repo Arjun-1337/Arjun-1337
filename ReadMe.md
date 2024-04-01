@@ -3,10 +3,11 @@
 <BR>
 -🚀 Interests:
 <BR>
-<BR>
 -💹 Trading Algorithms: I'm fascinated by the world of financial markets and am actively exploring the development of trading algorithms to navigate the complexities of trading strategies.
 <BR>
+<BR>
 -🎮 Game Development: Venturing into the realm of game development, I'm diving into the exciting world where code and creativity converge to bring virtual worlds to life.
+<BR>
 <BR>
 -🤖 AI Applications: Exploring the applications of Artificial Intelligence, I'm intrigued by the possibilities AI brings to various fields.
 
