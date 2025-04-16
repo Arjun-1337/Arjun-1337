@@ -61,8 +61,8 @@
 
 ## 📊 GitHub Stats
 
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-1337&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-1337&layout=compact&theme=tokyonight)
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-1337&show_icons=true&theme=tokyonight&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-1337&layout=compact&theme=tokyonight&cache_seconds=1)
 
 ---
 
