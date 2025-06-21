@@ -28,6 +28,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-0080FF?style=for-the-badge&logo=meta&logoColor=white)
+![Pine Script](https://img.shields.io/badge/PineScript-006400?style=for-the-badge&logo=tradingview&logoColor=white)
 
 ### 🛠️ Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -78,5 +80,3 @@
 ## ⚡ Fun Fact
 > I run on coffee, code, and calculated chaos.  
 > Let’s create the future — one project at a time.
-
----
